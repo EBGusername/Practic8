@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\bin\Debug\net6.0\Serdes.deps.json
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\bin\Debug\net6.0\Serdes.dll
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\bin\Debug\net6.0\Serdes.pdb
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.dll
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\refint\Serdes.dll
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\Serdes.pdb
+C:\Users\ADMIN\Desktop\c#\practic8\Serdes\obj\Debug\net6.0\ref\Serdes.dll

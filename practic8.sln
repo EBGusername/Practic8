@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practic8", "practic8\practic8.csproj", "{C62B4F98-FDBF-416E-AA5B-537BE8518093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serdes", "Serdes\Serdes.csproj", "{3D67E188-FEC1-4D0B-ACF2-E2FC5BEF192D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62B4F98-FDBF-416E-AA5B-537BE8518093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62B4F98-FDBF-416E-AA5B-537BE8518093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62B4F98-FDBF-416E-AA5B-537BE8518093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62B4F98-FDBF-416E-AA5B-537BE8518093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D67E188-FEC1-4D0B-ACF2-E2FC5BEF192D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D67E188-FEC1-4D0B-ACF2-E2FC5BEF192D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D67E188-FEC1-4D0B-ACF2-E2FC5BEF192D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D67E188-FEC1-4D0B-ACF2-E2FC5BEF192D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D389181B-A806-424A-81E4-E817F125F3E4}
+	EndGlobalSection
+EndGlobal
