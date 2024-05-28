@@ -30,7 +30,7 @@ namespace practic8
         private void SerializeButton_Click(object sender, RoutedEventArgs e)
         {
             // Создаем объект для сериализации
-            Person person = new Person { Name = "John Doe dfd divb", Age = 30 };
+            Person person = new Person { Name = "Jime, Kayle", Age = 25, Height = 196, Weight = 80};
 
             // Сериализуем объект в строку JSON
             string json = System.Text.Json.JsonSerializer.Serialize(person);
@@ -50,23 +50,15 @@ namespace practic8
             // Выводим десериализованный объект в консоль
             jsonTextBox.Text = person.ToString();
         }
-
-        public class Person
-        {
-            public string Name { get; set; }
-            public int Age { get; set; }
-
-            public override string ToString()
-            {
-                return $"Name: {Name}\nAge: {Age}";
-            }
-        }
-
         private void teme_Click(object sender, RoutedEventArgs e)
         {
             if(App.There == "GreenRed")
             {
                 App.There = "purpleblue";
+            }
+            else if(App.There == "purpleblue")
+            {
+                App.There = "beigedelicateblue";
             }
             else
             {

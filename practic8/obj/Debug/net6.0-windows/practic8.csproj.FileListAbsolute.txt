@@ -26,3 +26,4 @@ C:\Users\ADMIN\Desktop\c#\practic8\practic8\bin\Debug\net6.0-windows\Newtonsoft.
 C:\Users\ADMIN\Desktop\c#\practic8\practic8\bin\Debug\net6.0-windows\Serdes.dll
 C:\Users\ADMIN\Desktop\c#\practic8\practic8\bin\Debug\net6.0-windows\Serdes.pdb
 C:\Users\ADMIN\Desktop\c#\practic8\practic8\obj\Debug\net6.0-windows\practic8.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\c#\practic8\practic8\obj\Debug\net6.0-windows\Theme\beigedelicateblue.baml
